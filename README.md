@@ -2,7 +2,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fexed&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📖 Currently attending the Artificial Intelligence Master's Degree @ University of Pisa
-- 🖋️ Working on a paper about Continual Learning on Human State Monitoring data
+- 🖋️ Studying the Avalanche library
 - 📫 Reach me on [Telegram](https://t.me/Fexed) or via [mail](mailto://federicomatteoni@live.it)
 <!--
 **fexed/fexed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
