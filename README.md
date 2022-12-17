@@ -4,7 +4,7 @@
 -->
 #### Welcome!
 - 📖 Currently attending the Artificial Intelligence Master's Degree @ University of Pisa
-- 💼 Currently working as mobile native developer @ Navionics
+- 💼 Currently working as SW Engineer @ Garmin Italy Technologies
 - 📱 Currently designing new mobile apps as personal projects
 - ⚡ I'm also a photographer! Check my shots on [Instagram](https://www.instagram.com/xef_photos/) or my [website](https://fexed.github.io/photosets/photosets.html)
 - 📫 Reach me on [Telegram](https://t.me/Fexed) or via [mail](mailto://federicomatteoni@live.it)
