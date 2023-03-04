@@ -6,7 +6,7 @@
 - 📖 Currently attending the Artificial Intelligence Master's Degree @ University of Pisa
 - 💼 Currently working as SW Engineer @ Garmin Italy Technologies
 - 📱 Currently designing new mobile apps as personal projects
-- ⚡ I'm also a photographer! Check my shots on [Instagram](https://www.instagram.com/xef_photos/) or my [website](https://fexed.github.io/photosets/photosets.html)
+- ⚡ I'm also a photographer! Check my shots on [Flickr](https://www.flickr.com/photos/157105673@N08/albums) or [Instagram](https://www.instagram.com/xef_photos/) 
 - 📫 Reach me on [Telegram](https://t.me/Fexed) or via [mail](mailto://federicomatteoni@live.it)
 <!--
 **fexed/fexed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
