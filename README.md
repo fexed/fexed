@@ -3,8 +3,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fexed&theme=github_dark&layout=compact&exclude_repo=Notes)](https://github.com/anuraghazra/github-readme-stats)
 -->
 #### Welcome!
-- 📖 Currently attending the Artificial Intelligence Master's Degree @ University of Pisa
 - 💼 Currently working as SW Engineer @ Garmin Italy Technologies
+- 👉🏻 That's why my GitHub is a bit empty lately: Garmin's repostitories are private and under GitHub Enterprise :(
 - 📱 Currently designing new mobile apps as personal projects
 - ⚡ I'm also a photographer! Check my shots on [Flickr](https://www.flickr.com/photos/157105673@N08/albums) or [Instagram](https://www.instagram.com/xef_photos/) 
 - 📫 Reach me on [Telegram](https://t.me/Fexed) or via [mail](mailto://federicomatteoni@live.it)
