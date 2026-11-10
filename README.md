@@ -1,12 +1,10 @@
-<!--
-[![Fexed's GitHub stats](https://github-readme-stats.vercel.app/api?username=fexed&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fexed&theme=github_dark&layout=compact&exclude_repo=Notes)](https://github.com/anuraghazra/github-readme-stats)
--->
 #### Welcome!
 - 💼 Currently working as SW Engineer @ Garmin Italy Technologies
-- 👉🏻 That's why my GitHub is a bit empty lately: Garmin's repostitories are private and under GitHub Enterprise :(
+  - 👉🏻 That's why my GitHub is a bit empty lately: Garmin's repostitories are private and under GitHub Enterprise :(
 - 📱 Currently designing new mobile apps as personal projects
-- ⚡ I'm also a photographer! Check my shots on [Flickr (nsfw)](https://www.flickr.com/photos/157105673@N08/albums) or [Instagram](https://www.instagram.com/xef_photos/) 
+  - Latest projects are [Tickfolio](https://github.com/fexed/Tickfolio) and updating [Exoplanets Explorer](https://github.com/fexed/ExoplanetExplorer)
+- 🤖 I'm currently learning how to best leverage AI in my established workflows, in both Garmin and my personal projects.
+- 📷 I'm also a photographer! Check my shots on [Flickr (nsfw)](https://www.flickr.com/photos/157105673@N08/albums) or [Instagram](https://www.instagram.com/xef_photos/) 
 - 📫 Reach me on [Telegram](https://t.me/Fexed) or via [mail](mailto://federicomatteoni@live.it)
 <!--
 **fexed/fexed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
